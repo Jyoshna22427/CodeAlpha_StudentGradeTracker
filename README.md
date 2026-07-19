@@ -1,2 +1,2 @@
 # CodeAlpha_StudentGradeTracker
-My first Java project from CodeAlpha internship-Student Grade Tracker application with DSA concepts
+An advanced StudentGradeTracker application built in java using Object Oriented Programming(OOP) principles and core Data Structures and Algorithms(DSA) concepts.It features a fully interactive java swing Graphical User Interface(GUI) that allows educators to seamlessly add students,input grades,compute precise analytical metrics(like averages,highest,lowest scores),and track grade distributions in real time.
